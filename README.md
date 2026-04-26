@@ -1,9 +1,9 @@
- Adidas US Sales Analysis
+ Adidas US Sales Data Analysis
 
 An exploratory data analysis of Adidas sales performance across the United States,
 visualized using Tableau software.
 
- What's Inside
+Visualizations 
 
 - Product Performance vs Average — Bar chart comparing category-wise sales against the overall average
 - Total Units Sold by State — Choropleth map highlighting regional demand across the US
